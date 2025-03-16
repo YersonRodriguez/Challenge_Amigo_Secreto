@@ -12,7 +12,7 @@ Instalación
 1.	Clona este repositorio a tu máquina local:
 bash
 CopyEdit
-git clone https://github.com/2233-up/Challenge-Amigo-secreto.git
+git clone https://github.com/YersonRodriguez/Challenge_Amigo_Secreto.git
 2.	Abre el archivo index.html en tu navegador para ver la aplicación en funcionamiento.
 Uso
 1.	Ingresa un nombre en el campo de texto y haz clic en Agregar para añadirlo a la lista.
